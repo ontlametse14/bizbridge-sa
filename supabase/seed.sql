@@ -1,0 +1,4 @@
+-- Intentionally empty. No fictional data is inserted into real accounts.
+-- For a separate device-only preview, click "Explore demo" on the welcome screen.
+-- src/demo.ts owns the explicitly labelled Demo Clean Supplies sample.
+-- tests/database.mjs creates a dedicated fixture only after an explicit test opt-in.

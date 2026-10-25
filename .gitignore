@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+!.env.test.example
+*.local
+*.log
+*.tsbuildinfo
+playwright-report/
+test-results/
+.supabase/
+supabase/.temp/
+.vercel/
+.qa/
+# Credentials, browser sessions and database exports are local-only.
+.auth/
+playwright/.auth/
+*.pem
+*.key
+*.p12
+*.pfx
+*.dump
+*.sql.gz
+*.sqlite
+*.sqlite3
